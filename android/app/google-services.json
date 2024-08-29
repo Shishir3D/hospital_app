@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419866072585",
+    "project_id": "hospitalauth-97647",
+    "storage_bucket": "hospitalauth-97647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419866072585:android:9eca20d3aa613c9d22cad8",
+        "android_client_info": {
+          "package_name": "com.shishir3d.hospital_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRqASATAnoBtdCQzygyc5c4bxv7j7ZOic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
